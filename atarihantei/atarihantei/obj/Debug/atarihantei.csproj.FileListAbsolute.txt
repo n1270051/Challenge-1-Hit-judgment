@@ -1,0 +1,7 @@
+C:\Users\長澤祐哉\source\repos\atarihantei\atarihantei\bin\Debug\atarihantei.exe.config
+C:\Users\長澤祐哉\source\repos\atarihantei\atarihantei\bin\Debug\atarihantei.exe
+C:\Users\長澤祐哉\source\repos\atarihantei\atarihantei\bin\Debug\atarihantei.pdb
+C:\Users\長澤祐哉\source\repos\atarihantei\atarihantei\obj\Debug\atarihantei.csprojAssemblyReference.cache
+C:\Users\長澤祐哉\source\repos\atarihantei\atarihantei\obj\Debug\atarihantei.csproj.CoreCompileInputs.cache
+C:\Users\長澤祐哉\source\repos\atarihantei\atarihantei\obj\Debug\atarihantei.exe
+C:\Users\長澤祐哉\source\repos\atarihantei\atarihantei\obj\Debug\atarihantei.pdb
